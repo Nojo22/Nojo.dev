@@ -1,0 +1,2 @@
+# Nojo.dev
+config
